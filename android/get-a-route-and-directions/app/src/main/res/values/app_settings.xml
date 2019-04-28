@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="client_id">jOR9EOUObga2hCnb</string>
+    <string name="redirect_uri">my-devlab-app://auth</string>
+    <string name="routing_url">https://route.arcgis.com/arcgis/rest/services/World/Route/NAServer/Route_World/</string>
+</resources>

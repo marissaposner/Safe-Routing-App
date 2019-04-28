@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/faa1de58cef53de3b9a6805baafeefc5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a02078b9bac1158b84ee79b05a41e695/AndroidManifest.xml:17:1-22:12
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.5.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/arcgis-android-100.5.0.aar/727122a9578c32ffa15b9c40454822dc/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d009561cde9b5302bdfdcad04ef2c3a9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5ae98771e5d4f778fc3e6031820b9806/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8083fe18212224aa685c1b7b2b9176ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2884faaf2a2dd586b895f2a90c1092df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d95b1306a918cf61bbe34381f5e7907d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9954e8c676ebe7bc67083dda96155f5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bbdf9b05a6075d0471540d1431498483/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/32adea7875416f6d5831db4e0b5d0e8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/74cd08909ff98b1dfefd50432cd2ee09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/322f3e94b3149b3fe0dc64cb6ff6e1df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fe6800d7bc79b63bdc3e1596d5e120b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b6ed29c6e58b3942a0fc72806d0910b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b964c9644ea2ef9545fa72ae82022694/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c458879274945089b2e25bebffbc84ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b0e76283bd978de11d35633a026a6fd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/37baaaae21bc0a9f55d0beecb4db026a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/29938e7051edd94438995cd75b4d4146/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/da41002a4dc6d0d245404f3000554b41/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6a5534676b41f761637dded7570a72ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dce09b1fbf646eab0bc6e156b0dbe508/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/50c5e1d80c123afe3fd24454d788c095/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07b7283b5c63529c0aa93a0ed75f2b27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eb02c14b211e07f23fc960e1e5433ab8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f05409ce92ed2f756d7eee0b2b734556/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e15238ff5a5fde19f2aae796ffd66100/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/37e6b1d1b864478087e82480b4ee6f36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/722ea01f2d683df5666c1047e4cd0334/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/324469a3e22dff82f2305f0bb74c4331/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/720710645c0f51b94b5dde0c81c7b6da/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:16:22-76
+uses-feature#0x00020000
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:18:5-20:35
+	android:glEsVersion
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:20:9-32
+application
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:22:5-43:19
+MERGED from [com.android.support:design:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/faa1de58cef53de3b9a6805baafeefc5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/faa1de58cef53de3b9a6805baafeefc5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d009561cde9b5302bdfdcad04ef2c3a9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d009561cde9b5302bdfdcad04ef2c3a9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/29938e7051edd94438995cd75b4d4146/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/29938e7051edd94438995cd75b4d4146/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/da41002a4dc6d0d245404f3000554b41/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/da41002a4dc6d0d245404f3000554b41/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/29938e7051edd94438995cd75b4d4146/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.github.yujko.safetyrouteui.LoginActivity
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:30:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.github.yujko.safetyrouteui.RoutesActivity
+ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:38:9-42:20
+	android:label
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml:39:13-43
+uses-sdk
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/faa1de58cef53de3b9a6805baafeefc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/faa1de58cef53de3b9a6805baafeefc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a02078b9bac1158b84ee79b05a41e695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a02078b9bac1158b84ee79b05a41e695/AndroidManifest.xml:20:5-44
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.5.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/arcgis-android-100.5.0.aar/727122a9578c32ffa15b9c40454822dc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.esri.arcgisruntime:arcgis-android:100.5.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/arcgis-android-100.5.0.aar/727122a9578c32ffa15b9c40454822dc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d009561cde9b5302bdfdcad04ef2c3a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d009561cde9b5302bdfdcad04ef2c3a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5ae98771e5d4f778fc3e6031820b9806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5ae98771e5d4f778fc3e6031820b9806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8083fe18212224aa685c1b7b2b9176ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8083fe18212224aa685c1b7b2b9176ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2884faaf2a2dd586b895f2a90c1092df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/2884faaf2a2dd586b895f2a90c1092df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d95b1306a918cf61bbe34381f5e7907d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/d95b1306a918cf61bbe34381f5e7907d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9954e8c676ebe7bc67083dda96155f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9954e8c676ebe7bc67083dda96155f5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bbdf9b05a6075d0471540d1431498483/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/bbdf9b05a6075d0471540d1431498483/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/32adea7875416f6d5831db4e0b5d0e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/32adea7875416f6d5831db4e0b5d0e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/74cd08909ff98b1dfefd50432cd2ee09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/74cd08909ff98b1dfefd50432cd2ee09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/322f3e94b3149b3fe0dc64cb6ff6e1df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/322f3e94b3149b3fe0dc64cb6ff6e1df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fe6800d7bc79b63bdc3e1596d5e120b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fe6800d7bc79b63bdc3e1596d5e120b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b6ed29c6e58b3942a0fc72806d0910b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/b6ed29c6e58b3942a0fc72806d0910b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b964c9644ea2ef9545fa72ae82022694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/b964c9644ea2ef9545fa72ae82022694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c458879274945089b2e25bebffbc84ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c458879274945089b2e25bebffbc84ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b0e76283bd978de11d35633a026a6fd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b0e76283bd978de11d35633a026a6fd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/37baaaae21bc0a9f55d0beecb4db026a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/37baaaae21bc0a9f55d0beecb4db026a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/29938e7051edd94438995cd75b4d4146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/29938e7051edd94438995cd75b4d4146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/da41002a4dc6d0d245404f3000554b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/da41002a4dc6d0d245404f3000554b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6a5534676b41f761637dded7570a72ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6a5534676b41f761637dded7570a72ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dce09b1fbf646eab0bc6e156b0dbe508/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dce09b1fbf646eab0bc6e156b0dbe508/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/50c5e1d80c123afe3fd24454d788c095/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/50c5e1d80c123afe3fd24454d788c095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07b7283b5c63529c0aa93a0ed75f2b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/07b7283b5c63529c0aa93a0ed75f2b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eb02c14b211e07f23fc960e1e5433ab8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eb02c14b211e07f23fc960e1e5433ab8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f05409ce92ed2f756d7eee0b2b734556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f05409ce92ed2f756d7eee0b2b734556/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e15238ff5a5fde19f2aae796ffd66100/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e15238ff5a5fde19f2aae796ffd66100/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/37e6b1d1b864478087e82480b4ee6f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/37e6b1d1b864478087e82480b4ee6f36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/722ea01f2d683df5666c1047e4cd0334/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/722ea01f2d683df5666c1047e4cd0334/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/324469a3e22dff82f2305f0bb74c4331/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/324469a3e22dff82f2305f0bb74c4331/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/720710645c0f51b94b5dde0c81c7b6da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ncs140/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/720710645c0f51b94b5dde0c81c7b6da/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ncs140/proj/SafetyRouteUI/app/src/main/AndroidManifest.xml

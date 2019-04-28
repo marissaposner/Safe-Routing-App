@@ -1,0 +1,4 @@
+#Sat Apr 27 17:52:11 EDT 2019
+base.0=/Users/ncs140/proj/SafetyRouteUI/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
